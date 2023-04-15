@@ -64,5 +64,11 @@ supervisora programacion , programadora juegos , militar federal , educadora y v
 -- 約束は無駄な投資に他なりません。仕事はより良く、実際、最も効果的な結果をもたらします。
 --月の女神は、彼女が土地と海のために命を捧げた強い女性に与えたリーダーシップの例.
 
+# コンタクト
+
+ウェブサイト 2023:   https://genesisai.pages.dev/  
+
+シスター agatha IA 電子メール: -- サイトの電子メール: agatha010ia@gmail.com 父の電子メール 作成者の法定代理人: systemgregoryp.c@gmai.com
+
 
 
