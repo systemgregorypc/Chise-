@@ -60,6 +60,9 @@ supervisora programacion , programadora juegos , militar federal , educadora y v
 2 bot (one active), an open map;
 2 bots (one active), closed map; You can also choose another map by changing the seed number in method "Connect".
 
-#Sabiduría 2.0
+# Sabiduría 2.0
+-- 約束は無駄な投資に他なりません。仕事はより良く、実際、最も効果的な結果をもたらします。
+--月の女神は、彼女が土地と海のために命を捧げた強い女性に与えたリーダーシップの例.
+
 
 
