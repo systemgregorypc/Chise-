@@ -49,4 +49,17 @@ logrando asi predcir el comporamiento humanos y prevenir sus movimientos a un ti
 したがって、人間の行動を予測し、ナノ秒単位の短い時間で彼らの動きを防ぐことができます。
 未来を見る能力、彼の人間の父の贈り物
 
+# サポートされているオペレーティング システム
+-- このツールは現在、Unix、Linux、Windows、Mac、および NAVI プラットフォームを使用する Web サイト (サーバー) とのみ互換性があり、任天堂コンソールの再生、playtetion one プレイステーション 2、3、4 および 5、xbox 360 とのみ互換性があります。 リアルタイム Wi-Fi ポート
+
+# profesion: 
+supervisora programacion , programadora juegos , militar federal , educadora y vigilancia fabricas piezas organicas biologia y ameka maquinas  ,   Médica cirujana.
+職業: プログラミング スーパーバイザー、ゲーム プログラマー、連邦軍、有機部品工場の教育者および監視、生物学およびアメカ マシン、外科医。
+
+1 bot open map;
+2 bot (one active), an open map;
+2 bots (one active), closed map; You can also choose another map by changing the seed number in method "Connect".
+
+#Sabiduría 2.0
+
 
